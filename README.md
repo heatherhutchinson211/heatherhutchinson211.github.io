@@ -26,7 +26,7 @@ Led comprehensive data analysis project at Pewlett-Hackard, forecasting and stra
 - Excel, PostgreSQL
 
 
-![Pewlett](https://github.com/heatherhutchinson211/heatherhutchinson211.github.io/blob/main/Images/Pewlett.jpeg)
+![Pewlett](/Images/Pewlett.jpeg)
 
 
 ### Pyber Analysis
@@ -37,7 +37,7 @@ Conducted analysis on ride-sharing data by merging and analyzing the city data a
 
 
 
-![Pyber](https://github.com/heatherhutchinson211/heatherhutchinson211.github.io/blob/main/Images/Pyber.jpeg)
+![Pyber](/Images/Pyber.jpeg)
 
 
 ### Crowdfunding ETL
@@ -49,7 +49,7 @@ Successfully migrated data from Excel to PostgreSQL database, enabling efficient
 
 
 
-![ETL](https://github.com/heatherhutchinson211/heatherhutchinson211.github.io/blob/main/Images/Crowdfunding.png)
+![ETL](/Images/Crowdfunding.png)
 
 
 
