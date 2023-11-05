@@ -1,5 +1,4 @@
 # Heather Hutchinson
-# Data Scientist
 
 #### Technical Skills: Excel, VBA, Tableau, Python, SQL, RStudio
 
