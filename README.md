@@ -4,7 +4,7 @@
 
 ## Education
 - B.A., Mathematics | University of Nevada, Reno (_May 2023_)								       		
-- Data Science and Visualizayion Bootcamp	| University of Califronia, San Diego (_May 2023_)	 			        		
+- Data Science and Visualization Bootcamp	| University of Califronia, San Diego (_May 2023_)	 			        		
 
 
 ## Projects
@@ -37,7 +37,7 @@ Conducted analysis on ride-sharing data by merging and analyzing the city data a
 
 
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Pyber](https://github.com/heatherhutchinson211/heatherhutchinson211.github.io/blob/main/Images/Pyber.jpeg)
 
 
 ### Crowdfunding ETL
