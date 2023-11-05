@@ -58,7 +58,7 @@ Successfully migrated data from Excel to PostgreSQL database, enabling efficient
 - Specializes in math, writing, and reading, facilitating innovative and in-depth learning experiences for K-8 students through creative teaching methods.
 
 **Retail Associate @ Nugget Casino Resort (_January 2021 - May 2023_)**
-- Applied analytical skills to investigate inventory discrepancies, resulting in a $65,000 reduction in annual inventory variances.
+- Applied analytical skills to investigate inventory discrepancies, resulting in a 78% reduction in annual inventory variances.
 - Optimized sales performance and enhanced customer satisfaction as a detail-oriented retail associate.
 
 **Guest Service Representative @ Target (_April 2020 - September 2020_)**
