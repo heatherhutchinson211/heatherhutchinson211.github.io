@@ -4,7 +4,7 @@
 
 ## Education
 - B.A., Mathematics | University of Nevada, Reno (_May 2023_)								       		
-- Data Science and Visualization Bootcamp	| University of Califronia, San Diego (_May 2023_)	 			        		
+- Data Science and Visualization Bootcamp	| University of California, San Diego (_May 2023_)	 			        		
 
 
 ## Projects
