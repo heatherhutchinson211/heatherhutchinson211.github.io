@@ -26,7 +26,7 @@ Led comprehensive data analysis project at Pewlett-Hackard, forecasting and stra
 - Excel, PostgreSQL
 
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Bike Study](https://github.com/heatherhutchinson211/heatherhutchinson211.github.io/blob/main/Images/Crowdfunding.png)
 
 
 ### Pyber Analysis
