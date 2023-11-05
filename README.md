@@ -26,7 +26,7 @@ Led comprehensive data analysis project at Pewlett-Hackard, forecasting and stra
 - Excel, PostgreSQL
 
 
-![Bike Study](https://github.com/heatherhutchinson211/heatherhutchinson211.github.io/blob/main/Images/Crowdfunding.png)
+![Bike Study]()
 
 
 ### Pyber Analysis
@@ -49,7 +49,7 @@ Successfully migrated data from Excel to PostgreSQL database, enabling efficient
 
 
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![ETL](https://github.com/heatherhutchinson211/heatherhutchinson211.github.io/blob/main/Images/Crowdfunding.png)
 
 
 
