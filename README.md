@@ -16,7 +16,7 @@ Investigated climate change impacts, and analyzed historical and projected clima
 - PostgreSQL, Python, Tableau, RStudio
 
 
-![Climate](https://github.com/heatherhutchinson211/heatherhutchinson211.github.io/blob/main/Images/Climate_CHange_Guam.jpeg)
+![Climate](/Images/Climate_CHange_Guam.jpeg)
 
 ### Pewlett Hackard Analysis
 [Publication](https://github.com/heatherhutchinson211/Pewlett-Hackard-Analysis)
