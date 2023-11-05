@@ -33,7 +33,7 @@ Led comprehensive data analysis project at Pewlett-Hackard, forecasting and stra
 [Project Link](https://github.com/heatherhutchinson211/PyBer_Analysis)
 
 Conducted analysis on ride-sharing data by merging and analyzing the city data and ride data files to calculate averages and create visualizations based on driver information, city type, ride fares, and ride dates from the year 2019. 
-- Python, Excel
+- Python, Excel, Tableau
 
 
 
