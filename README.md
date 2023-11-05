@@ -65,7 +65,7 @@ Successfully migrated data from Excel to PostgreSQL database, enabling efficient
 - Collaborated in conducting annual inventory assessments and quality assurance checks to ensure consistent service excellence and adherence to standards.
 - Provided exceptional guest service by addressing inquiries, resolving issues, and maintaining a welcoming environment, contributing to overall guest satisfaction and loyalty.
 
-**Office Clerk @ Visalia Livestock Market (_April 2018 - May 2019)**
+**Office Clerk @ Visalia Livestock Market (_April 2018 - May 2019_)**
 - Coordinated and managed all computer-based tasks, delivered exceptional customer service, and executed meticulous financial transactions within a livestock market.
 
 
