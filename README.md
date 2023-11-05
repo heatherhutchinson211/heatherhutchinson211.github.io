@@ -7,7 +7,7 @@
 - Data Science and Visualization Bootcamp	| University of California, San Diego (_May 2023_)	 			        		
 
 
-## Projects
+## Highlighted Projects
 ### Climate Change in Guam
 [Project Link](https://github.com/LLudivina/project-one)
 
